@@ -21,7 +21,7 @@ On running this command, the program will request a location to to save the file
 
 The request would be for you to enter a password if you would like to further secure your SSH key. If you don't want to use a password, press enter.
 
-Retype the passwoard again or just press enter if you did not enter a password previously.
+Retype the password again or just press enter if you did not enter a password previously.
 
 Upon completion an SSH key will be generated. It actually generates two keys. A private key and a public key. the private key is kept on your local machine and the public key is sent to github. The two keys are required to decrypt and authenticate your connection to github
 
